@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Forge run folder
+run/
+
+# Logs
+logs/
+crash-reports/
+
+# OS
+.DS_Store
+Thumbs.db
